@@ -1,3 +1,6 @@
+Я не успел записаться, решил влезть сюда
+<img width="3416" height="44" alt="image" src="https://github.com/user-attachments/assets/33f3d9df-be04-4989-b17a-06eb7651ce19" />
+
 Использовал ноутбуки RoseTTAFold2 и OmegaFold (openFold не работал)
 
-<img width="3416" height="44" alt="image" src="https://github.com/user-attachments/assets/33f3d9df-be04-4989-b17a-06eb7651ce19" />
+По выводам на снимках экрана видно, что получились разные предсказания. В самих ноутбуках можно было выбрать раскраску по цепям, омега справилась, RoseTTAFold2 не справилась. Я проверил разные варианты запуска, но результттат един.
